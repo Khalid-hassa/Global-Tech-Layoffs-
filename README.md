@@ -56,12 +56,12 @@ Country & Company consists of :
 
 ## Conclusion 
 
-Among all the Hardware industry contributed highest 11.37% market share and laid off 86528 employees during 2020 - 2025
+The Hardware industry recorded the highest share, contributing 11.37% of the market, with 86,528 employees laid off between 2020 and 2025.
 
-Overall between January and April shows the more layoffs
+Overall, the period between January and April experienced the highest number of layoffs.
 
-Intel is the global leader in tech layoff more than 43 thousand cutoff 
+Intel emerged as the global leader in tech layoffs, cutting more than 43,000 employees.
 
-United State is the worst country affect more than 543K employees lost their job and China has last in number with 8K
+The United States was the most affected country, with over 543,000 job losses, while China reported the lowest layoffs at around 8,000 employees.
 
-2023 was the year where more than 264K and 31% layoffs happens as compared to other years and 2021 was the least number 16K only
+In 2023, layoffs peaked at over 264,000 employees (31% of total cuts), whereas 2021 recorded the lowest layoffs with only 16,000.
