@@ -27,5 +27,10 @@ This global tech layoffs Power BI is built over real layoff dataset around the w
 ## Overview
 
 
-<img width="1362" height="692" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/821fc2d6-d4e4-4807-b520-798474e46237" />
+<img width="1362" height="692" alt="Overview" src="https://github.com/user-attachments/assets/821fc2d6-d4e4-4807-b520-798474e46237" />
 
+## Country & Company wise Analysis
+
+
+
+<img width="1366" height="692" alt="Country & company" src="https://github.com/user-attachments/assets/7aacbb39-54f0-4e42-8fb5-ffff7bfb42bd" />
