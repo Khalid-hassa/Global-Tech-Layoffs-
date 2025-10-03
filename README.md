@@ -1,6 +1,6 @@
 # Global-Tech-Layoffs-
 
-This global tech layoffs Power BI is built over real layoff dataset around the world. The dashboard helps to analyze the trend of tech layoffs in different industies between 2020 - 2025. The dashboard contains of three page "Overview", "Detailed Overview" and "Company & Country" with different charts and visual, which makes anyone to easiy understand the raw data to meaningful insights.
+This global tech layoffs Power BI dashboard is built on real-world dataset around the world. The dashboard helps to analyze the trend of tech layoffs in different industies between 2020 - 2025. The dashboard contains of three page "Overview", "Detailed Overview" and "Company & Country" with different charts and visual, which makes anyone to easily understand the raw data to meaningful insights.
 
 ## Project Overview
 
@@ -28,6 +28,19 @@ This global tech layoffs Power BI is built over real layoff dataset around the w
 
 
 <img width="1362" height="692" alt="Overview" src="https://github.com/user-attachments/assets/821fc2d6-d4e4-4807-b520-798474e46237" />
+
+In the Overview Page it consists of:
+
+. KPI cards to show the numbers 
+
+. Visualize number of layoffs along with percentage using line chart
+
+. Inside the table visual utilized the conditional formating to show the data bars with industry share
+
+. Added Page Navigation to easily navigate to different pages
+
+. Use Slicers to summarize into different industry and year with additional clear filter button
+
 
 ## Country & Company wise Analysis
 
