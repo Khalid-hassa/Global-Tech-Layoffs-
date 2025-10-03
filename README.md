@@ -21,3 +21,11 @@ This global tech layoffs Power BI is built over real layoff dataset around the w
 **2805** companies impacted
 
 **67** countries laid off total 761,204 employees
+
+# Dashboard
+
+## Overview
+
+
+<img width="1362" height="692" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/821fc2d6-d4e4-4807-b520-798474e46237" />
+
