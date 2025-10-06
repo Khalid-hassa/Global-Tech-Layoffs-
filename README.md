@@ -54,6 +54,12 @@ Country & Company consists of :
 
 . Third visual shows year-wise number and line shows the trend with percentage
 
+
+## Detailed View
+
+. Utilized a table chart for drill through features for detailed view about country and company-wise
+
+
 ## Conclusion 
 
 The Hardware industry recorded the highest share, contributing 11.37% of the market, with 86,528 employees laid off between 2020 and 2025.
