@@ -12,7 +12,7 @@ This global tech layoffs Power BI dashboard is built on real-world dataset aroun
 
 . Total number to countries affected with number of employees
 
-. Market share of a particual industy
+. Market share of each industy
 
 ## Findings (KPIs)
 
