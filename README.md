@@ -48,7 +48,7 @@ Overview Page it consists of:
 
 <img width="1366" height="692" alt="Country & company" src="https://github.com/user-attachments/assets/7aacbb39-54f0-4e42-8fb5-ffff7bfb42bd" />
 
-Country & Company consists of :
+Country & Company consists of:
 
 . Stacked bar charts which demontraet top 10 company & country with number of layoffs
 
