@@ -4,15 +4,15 @@ This global tech layoffs Power BI dashboard is built on real-world dataset aroun
 
 ## Project Overview
 
-. Analyze the year-wise trend of layoffs
+-Analyze the year-wise trend of layoffs
 
-. Layoffs in diffrent industries
+-Layoffs in diffrent industries
 
-. Number of layoffs associated with company
+-Number of layoffs associated with company
 
-. Total number to countries affected with number of employees
+-Total number to countries affected with number of employees
 
-. Market share of each industy
+-Market share of each industy
 
 ## Findings (KPIs)
 
