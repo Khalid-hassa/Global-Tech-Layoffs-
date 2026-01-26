@@ -57,7 +57,7 @@ Country & Company consists of:
 
 ## Detailed View
 
-. Utilized a table chart for drill through features for detailed view about country and company-wise
+. Utilized a table chart for drill through features for detailed view about country and company-wise data.
 
 
 ## Conclusion 
